@@ -23,3 +23,5 @@ This mobile-responsive application generates a random password after taking into
 ## Project Status
 
 Completed!
+
+## <a href="https://prabhm512.github.io/password-generator/">Deployed Project (click to view)</a>
